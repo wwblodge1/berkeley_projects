@@ -1,0 +1,4 @@
+Connected data from world events aggregated on a yearly level per country and correlated it with yearly country based happiness reports, and GDP measures. My goal was to explore how world events affect different types of “prosperity” for countries. In the initial exploration and discussion of these data, I formulated the following hypotheses around happiness: 
+- Productivity: There is a positive relationship between national productivity (measured using GDP per capita) and national happiness. 
+- Personal Variables of Happiness : There is a positive relationship between average national family size, life expectancy, trust, freedom and happiness. 
+- Bad News: There is a negative relationship between bad news in a country and happiness. 
